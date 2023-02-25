@@ -4,7 +4,6 @@ import HomePage from "./components/homePage";
 import Search from "./components/search";
 import Songs from "./components/songs";
 import NavigationBar from "./components/navbar";
-import Notifications from "./components/notifications";
 import SongLibrary from "./components/songLibrary";
 
 import './App.css';
